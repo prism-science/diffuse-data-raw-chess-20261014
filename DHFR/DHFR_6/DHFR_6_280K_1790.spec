@@ -1,0 +1,1 @@
+../../.git/annex/objects/vv/vq/MD5E-s3057--1a46c965d3af074591c9856f58bf623d.spec/MD5E-s3057--1a46c965d3af074591c9856f58bf623d.spec

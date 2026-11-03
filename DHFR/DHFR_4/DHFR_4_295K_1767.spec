@@ -1,0 +1,1 @@
+../../.git/annex/objects/vw/jg/MD5E-s3069--a4ebea6d6cba4761d83286cd12f9c516.spec/MD5E-s3069--a4ebea6d6cba4761d83286cd12f9c516.spec
